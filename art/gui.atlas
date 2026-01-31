@@ -1,0 +1,60 @@
+gui.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+switcher_off
+  rotate: true
+  xy: 2, 2
+  size: 211, 128
+  orig: 256, 128
+  offset: 26, 0
+  index: 1024
+switcher_off
+  rotate: false
+  xy: 2, 215
+  size: 42, 25
+  orig: 50, 25
+  offset: 5, 0
+  index: 320
+switcher_off
+  rotate: false
+  xy: 266, 132
+  size: 83, 50
+  orig: 100, 50
+  offset: 10, 0
+  index: 640
+switcher_off
+  rotate: true
+  xy: 132, 132
+  size: 108, 65
+  orig: 130, 65
+  offset: 13, 0
+  index: 750
+switcher_on
+  rotate: false
+  xy: 132, 2
+  size: 211, 128
+  orig: 256, 128
+  offset: 26, 0
+  index: 1024
+switcher_on
+  rotate: false
+  xy: 46, 215
+  size: 42, 25
+  orig: 50, 25
+  offset: 5, 0
+  index: 320
+switcher_on
+  rotate: false
+  xy: 266, 184
+  size: 83, 50
+  orig: 100, 50
+  offset: 10, 0
+  index: 640
+switcher_on
+  rotate: true
+  xy: 199, 132
+  size: 108, 65
+  orig: 130, 65
+  offset: 13, 0
+  index: 750

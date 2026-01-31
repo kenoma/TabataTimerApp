@@ -1,0 +1,18 @@
+gui.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+switch_off
+  rotate: false
+  xy: 2, 2
+  size: 102, 68
+  orig: 102, 68
+  offset: 0, 0
+  index: -1
+switch_on
+  rotate: false
+  xy: 106, 2
+  size: 102, 68
+  orig: 102, 68
+  offset: 0, 0
+  index: -1

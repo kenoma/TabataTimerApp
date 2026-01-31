@@ -1,0 +1,17 @@
+m
+m.idea/libraries
+r.idea/scopes
+mandroid
+randroid/assets
+randroid/assets/data/fonts
+randroid/assets/fonts
+randroid/assets/sound
+mandroid/build/generated/source/buildConfig/debug/com/kenoma/tabatatimer/android
+mandroid/build/generated/source/buildConfig/release/com/kenoma/tabatatimer/android
+randroid/build/generated/source/buildConfig/test/debug/com/kenoma/tabatatimer/android/test
+mandroid/build/intermediates/resources
+randroid/build/intermediates/tmp/dex/debug
+randroid/build/intermediates/tmp/dex/release
+mbuild/intermediates/dex-cache
+mcore/src/com/kenoma/tabatatimer
+rhtml
